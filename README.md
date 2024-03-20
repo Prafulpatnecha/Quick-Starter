@@ -1,5 +1,5 @@
 # Quick-Starter
-<h1>Click Image</h1>
+<h1>Click Image Go To File</h1>
 <h2>➡️ 5.1 Lec</h2>
   </center>
 <hr>
