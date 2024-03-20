@@ -1,5 +1,5 @@
 # Quick-Starter
-<h2>→5.1 Lec</h2>
+<h2>►5.1 Lec</h2>
   </center>
 <hr>
 <p>
