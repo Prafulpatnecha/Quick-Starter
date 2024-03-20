@@ -1,6 +1,7 @@
 # Quick-Starter
 <center>
 <h2>5.1 Lec</h2>
+  </center>
 <hr>
 <p>
   <a href ="https://github.com/Prafulpatnecha/my_rwn/tree/main/lib">
@@ -8,4 +9,4 @@
   </a>
   </p>
 <hr>
-</center>
+
