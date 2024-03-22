@@ -77,7 +77,7 @@
 
 <hr>
 <p>
-  <a href ="https://github.com/Prafulpatnecha/Quick-Starter">
+  <a href ="https://github.com/Prafulpatnecha/custom_widget_4_1/tree/main">
   <img src="https://github.com/Prafulpatnecha/custom_widget_4_1/assets/144161200/58bdf074-2144-4d3f-a213-42d23cbaba27" width="22%" Height="35%">
   </a>
   </p>
